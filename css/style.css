@@ -7,10 +7,8 @@
     --color-enfasis: #e1ffff;
     --color-secundario: #87cefa;
     --color-secundario-fuerte: #01ced1;
- 
         
 }
-
 body{
     font-family: var(--fuente-lora);
     font-size: 18px;
@@ -28,7 +26,7 @@ body{
 .nav-link:hover{
     color: #e4d68f;
 }
-.hero-p{
+/* .hero-p{
     margin-bottom: 8rem;
     font-family: var(--fuente-lora);
 }
@@ -36,4 +34,4 @@ body{
     font-family: var(--fuente-poppins);
     font-size: 45px;
     font-weight: 600;
-}
+} */
