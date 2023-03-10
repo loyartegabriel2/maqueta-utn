@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600;1,700&family=Poppins:wght@400;600&display=swap');
+
+:root{
+    --fuente-lora: font-family: 'Lora', serif;
+    --fuente-poppins:font-family: 'Poppins', sans-serif;
+    --color-principal: #c7e2ff;
+    --color-enfasis: #e1ffff;
+    --color-secundario: #87cefa;
+    --color-secundario-fuerte: #01ced1;
+       
+}
+.shadow {
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%) !important;
+}
+.menu{
+    background: linear-gradient(to right, #c7e2ff, #82bcfa);
+    font-family: 'Lora', serif;
+}
+.nav-link{
+    color: #ffffff;
+}
+.nav-link:hover{
+    color: #7a665d;
+}
